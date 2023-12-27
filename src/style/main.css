@@ -52,6 +52,7 @@
 
 .panel {
     display: none;
+    height: 100vh;
     align-items: center;
     justify-content: center;
     margin-top: 1rem;
